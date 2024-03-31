@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">kanoun_hana_mesure_glycemie</string>
+    <string name="text">Mesure de niveau de glycémie</string>
+    <string name="age">Votre âge\n</string>
+    <string name="jeûner">Est-ce que vous jeûner?</string>
+</resources>
