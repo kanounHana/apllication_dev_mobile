@@ -100,5 +100,6 @@ public class MainActivity extends AppCompatActivity {
         rbIsFasting = findViewById(R.id.rbtOui);
         rbIsNotFasting = findViewById(R.id.rbtNon);
         btnConsulter = findViewById(R.id.btnConsulter);
+        controller = Controller.getInstance();
     }
 }
